@@ -57,3 +57,4 @@ class FlightTest {
         assertThrows(RuntimeException.class, () -> smallFlight.addPassenger(passenger2));
     }
 }
+
